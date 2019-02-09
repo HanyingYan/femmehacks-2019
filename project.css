@@ -1,0 +1,36 @@
+h1{
+	color:blue;
+	font-weight: bold;
+	font-size:50px;
+	font-family: 'Georgia'
+}
+
+
+#red{
+	color:red;
+}
+
+#blue{
+	color:blue;
+}
+
+#lime{
+	color:lime;
+}
+
+#home{
+	background-color:yellow;
+}
+
+#about{
+	background-color:grey;
+}
+
+#learn-more{
+	background-color:pink;
+}
+
+li{
+	list-style:none:
+	float:right;
+}
